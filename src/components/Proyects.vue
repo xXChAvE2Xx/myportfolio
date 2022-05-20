@@ -40,6 +40,18 @@ export default {
     return {
       proyects: [
         {
+          name: 'Raul Chavez - Portfolio',
+          cardImg:
+            'https://user-images.githubusercontent.com/54995852/169625260-1c3cea2d-c931-494b-8d76-eb1c64825057.png',
+          desc: 'My first web application developed with Vue 3.',
+          url: 'https://github.com/xXChAvE2Xx/myportfolio',
+          contributors: 'Raúl Chávez',
+          date: '20 de Mayo del 2022',
+          lenguage: 'Vue',
+          classe: 'tag is-primary',
+          verEn: 'Github',
+        },
+        {
           name: 'Visual-Thinking-API',
           cardImg:
             'https://user-images.githubusercontent.com/54995852/167043222-64427a25-da21-4ed8-a5f5-561eb7a0015a.svg',

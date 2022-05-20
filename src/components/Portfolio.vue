@@ -11,14 +11,11 @@
           <p class="title" style="color: white">Raul Chavez</p>
           <hr />
           <p class="subtitle mt-3 has-text-justified" style="color: white">
-            Hello, I'm Raul. I studied Technical Programmer Analyst at the high
-            school #12 of the Universidad de Colima. I also studied Telematic
-            Engineering at the Faculty of Telematics and I did a bootcamp
-            organized by innovaccion virtual where I learned a lot of things
-            about frontend and backend such as Vue js and Node js. I like to
-            always give my best and provide solutions to the problems presented
-            and also love to spend my free time playing video games or with my
-            family.
+            Hi, I'm Raul Chavez and I love Technology. My favorite areas are web
+            development, computer networks and embedded systems. I like to spend
+            my time creating web pages or learning new things, giving solutions
+            to problems and I also like to eat Tacos and play videogames.<br />
+            I am from Mexico and I currently live in the state of Colima.
             <br />
           </p>
           <div>
@@ -141,11 +138,19 @@ export default {
           url: 'https://i.imgur.com/65QJ1B2.png',
           color: 'is-primary',
         },
-      ],
-      iconos: [
         {
-          type: 'github',
-          icono: "['fab', 'github']",
+          lang: 'Linux',
+          level: 'Intermediate',
+          num: '55',
+          url: 'https://i.imgur.com/JFz1rkj.png',
+          color: 'is-dark',
+        },
+        {
+          lang: 'Git',
+          level: 'Basic',
+          num: '45',
+          url: 'https://i.imgur.com/3ERmSFz.png',
+          color: 'is-danger',
         },
       ],
     };
