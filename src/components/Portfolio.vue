@@ -15,7 +15,7 @@
             development, computer networks and embedded systems. I like to spend
             my time creating web pages or learning new things, giving solutions
             to problems and I also like to eat Tacos and play videogames.<br />
-            I am from Mexico and I currently live in the state of Colima.
+            I am from Mexico and I currently live in Colima City.
             <br />
           </p>
           <div>
