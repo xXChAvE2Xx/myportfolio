@@ -7,7 +7,7 @@
         </div>
       </div>
       <div class="hero-body">
-        <div class="column is-2">
+        <div class="column is-3">
           <p class="title" style="color: white">Raul Chavez</p>
           <hr />
           <p class="subtitle mt-3 has-text-justified" style="color: white">
