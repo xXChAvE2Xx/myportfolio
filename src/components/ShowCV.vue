@@ -1,5 +1,9 @@
 <template>
-  <a href="" target="blank_" class="button">
+  <a
+    href="https://drive.google.com/file/d/1xQjh3IjJj9VV4z3Z4pxWV77FnpYPDRAh/view?usp=sharing"
+    target="blank_"
+    class="button"
+  >
     <span class="button-content">CV</span>
   </a>
 </template>
