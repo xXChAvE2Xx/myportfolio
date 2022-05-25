@@ -1,6 +1,6 @@
 <template>
   <a href="" target="blank_" class="button">
-    <span class="button-content">Ver CV</span>
+    <span class="button-content">CV</span>
   </a>
 </template>
 
