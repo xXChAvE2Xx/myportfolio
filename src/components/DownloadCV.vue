@@ -1,16 +1,16 @@
 <template>
   <a
-    href="https://drive.google.com/file/d/1xQjh3IjJj9VV4z3Z4pxWV77FnpYPDRAh/view?usp=sharing"
-    target="blank_"
+    href="https://drive.google.com/uc?id=1EM11NqDd6Ozbk64Z2QkB62MAop0k13vf&export=download"
     class="button"
+    download
   >
-    <span class="button-content">CV</span>
+    <span class="button-content">Download CV</span>
   </a>
 </template>
 
 <script>
 export default {
-  name: 'verCV',
+  name: 'downloadCV',
 };
 </script>
 <style scoped>
