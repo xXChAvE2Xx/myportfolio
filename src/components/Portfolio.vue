@@ -101,7 +101,7 @@
 <script>
 import Progress from './ProgressBar.vue';
 import Proyectos from './Proyects.vue';
-import DownloadCv from './ShowCV.vue';
+import DownloadCv from './DownloadCV.vue';
 import Footer from './Footer.vue';
 export default {
   // eslint-disable-next-line vue/multi-word-component-names
