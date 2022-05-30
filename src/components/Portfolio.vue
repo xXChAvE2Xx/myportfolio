@@ -2,7 +2,7 @@
   <section class="hero is-halfheight" style="background-color: #1f2833">
     <div class="columns mt-5">
       <div class="column is-4 mt-6">
-        <div class="image pic">
+        <div class="image img-wrapper">
           <img class="is-rounded" src="../assets/pic1.jpg" />
         </div>
       </div>
@@ -184,15 +184,41 @@ export default {
 .text:hover {
   color: rgb(17, 177, 226);
 }
-.pic {
+
+.img-wrapper {
   width: 256px;
   float: right;
 }
 
+.img-wrapper img {
+  width: 100%;
+  display: block;
+  border-radius: 50%;
+}
+
+.img-wrapper::before {
+  content: '';
+  position: absolute;
+  inset: -15px;
+  border: 6px solid #1f2833;
+  border-top-color: #fff;
+  border-bottom-color: #ababab;
+  border-radius: 50%;
+  z-index: 1;
+  animation: spin 3s linear infinite;
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 @media only screen and (max-width: 430px) {
-  .pic {
+  .img-wrapper {
     width: 196px;
     float: initial;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 </style>
