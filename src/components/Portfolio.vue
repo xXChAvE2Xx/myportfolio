@@ -1,5 +1,5 @@
 <template>
-  <section class="hero is-halfheight" style="background-color: #1f2833">
+  <section class="hero is-halfheight" style="background-color: #607d8b">
     <div class="columns mt-5">
       <div class="column is-4 mt-6">
         <div class="image img-wrapper">
@@ -200,7 +200,7 @@ export default {
   content: '';
   position: absolute;
   inset: -15px;
-  border: 6px solid #1f2833;
+  border: 6px solid #607d8b;
   border-top-color: #fff;
   border-bottom-color: #ababab;
   border-radius: 50%;
