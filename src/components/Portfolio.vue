@@ -8,14 +8,14 @@
       </div>
       <div class="hero-body">
         <div class="column is-3">
-          <p class="title" style="color: white">Raul Chavez</p>
+          <p class="title" style="color: white">Raúl Chávez</p>
           <hr />
           <p class="subtitle mt-3 has-text-justified" style="color: white">
-            Hi, I'm Raul Chavez and I love Technology. My favorite areas are web
+            Hi, I'm Raúl Chávez and I love Technology. My favorite areas are web
             development, computer networks and embedded systems. I like to spend
             my time creating web pages or learning new things, giving solutions
             to problems and I also like to eat Tacos and play videogames.<br />
-            I am from Mexico and I currently live in Colima City.
+            I'm from Mexico and I currently live in Colima City.
             <br />
           </p>
           <div>
