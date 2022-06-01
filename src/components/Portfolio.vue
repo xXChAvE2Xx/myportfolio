@@ -119,8 +119,8 @@ export default {
         },
         {
           lang: 'PHP',
-          level: 'Intermediate',
-          num: '50',
+          level: 'Basic',
+          num: '30',
           url: 'https://i.imgur.com/7sKVVgG.png',
           color: 'is-info',
         },
