@@ -140,15 +140,15 @@ export default {
         },
         {
           lang: 'Linux',
-          level: 'Intermediate',
-          num: '55',
+          level: 'Basic',
+          num: '30',
           url: 'https://i.imgur.com/JFz1rkj.png',
           color: 'is-dark',
         },
         {
           lang: 'Git',
           level: 'Basic',
-          num: '45',
+          num: '25',
           url: 'https://i.imgur.com/3ERmSFz.png',
           color: 'is-danger',
         },
