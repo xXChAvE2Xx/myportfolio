@@ -120,9 +120,23 @@ export default {
         {
           lang: 'PHP',
           level: 'Basic',
-          num: '30',
+          num: '45',
           url: 'https://i.imgur.com/7sKVVgG.png',
           color: 'is-info',
+        },
+        {
+          lang: 'Linux',
+          level: 'Basic',
+          num: '30',
+          url: 'https://i.imgur.com/JFz1rkj.png',
+          color: 'is-dark',
+        },
+        {
+          lang: 'Laravel',
+          level: 'Basic',
+          num: '27',
+          url: 'https://i.imgur.com/tcYJmPS.png',
+          color: 'is-danger',
         },
         {
           lang: 'NodeJS',
@@ -137,13 +151,6 @@ export default {
           num: '25',
           url: 'https://i.imgur.com/65QJ1B2.png',
           color: 'is-primary',
-        },
-        {
-          lang: 'Linux',
-          level: 'Basic',
-          num: '30',
-          url: 'https://i.imgur.com/JFz1rkj.png',
-          color: 'is-dark',
         },
         {
           lang: 'Git',
