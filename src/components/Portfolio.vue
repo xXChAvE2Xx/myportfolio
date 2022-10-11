@@ -113,14 +113,14 @@ export default {
         {
           lang: 'JavaScript',
           level: 'Intermediate',
-          num: '50',
+          num: '55',
           url: 'https://i.imgur.com/Buw4ffO.png',
           color: 'is-warning',
         },
         {
           lang: 'PHP',
-          level: 'Basic',
-          num: '45',
+          level: 'Intermediate',
+          num: '50',
           url: 'https://i.imgur.com/7sKVVgG.png',
           color: 'is-info',
         },
