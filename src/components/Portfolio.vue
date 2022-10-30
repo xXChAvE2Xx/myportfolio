@@ -48,11 +48,6 @@
               /></a>
             </div>
             <div class="is-hidden-desktop">
-              <a id="icono-zoom" href="tel:+523122090247" target="_blank"
-                ><font-awesome-icon :icon="['fa', 'phone']" class="fa-2x"
-              /></a>
-            </div>
-            <div class="is-hidden-desktop">
               <a
                 id="icono-zoom"
                 href="mailto:raul25042000@hotmail.com"
